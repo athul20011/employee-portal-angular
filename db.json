@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "id": "4",
+      "name": "amar1",
+      "email": "novaclear47@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "6",
+      "name": "afzal",
+      "email": "afzal@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "9",
+      "name": "krizz",
+      "email": "krizz@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "10",
+      "name": "yomm",
+      "email": "yomm@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "3",
+      "name": "aarun",
+      "email": "aarun@gmail.com",
+      "active": "1"
+    }
+  ]
+}
